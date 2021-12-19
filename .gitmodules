@@ -1,0 +1,3 @@
+[submodule "dont-stop-pretraining"]
+	path = dont-stop-pretraining
+	url = https://github.com/allenai/dont-stop-pretraining.git
