@@ -20,9 +20,9 @@ We can see that the results of the replication experiment and the actual paper r
 
 Final Presentation: https://github.com/itemgiver/NLP-Study/blob/main/NLP_Final_Presentation.pdf \
 Final Report: https://github.com/itemgiver/NLP-Study/blob/main/NLP_Final_Report.pdf \
-It is a team project with four KAIST students.
+It is a team project with four KAIST students. I am thankful to the team members who worked hard during the semester.
 
 ## References
 
-Original Paper: https://github.com/itemgiver/NLP-Study/blob/main/Don%E2%80%99t%20Stop%20Pretraining%20Adapt%20Language%20Models%20to%20Domains%20and%20Tasks.pdf
+Original Paper: https://arxiv.org/pdf/2004.10964 \
 Github Code: https://github.com/allenai/dont-stop-pretraining/tree/266269faca8645482eef2e710d916607ea2c71d2
