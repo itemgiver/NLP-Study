@@ -2,7 +2,7 @@
 
 ## About
 
-I implemented bag-of-words, RNN, and BERT using PyTorch. Also, our team did a replication experiment in the don't-stop-pretraining paper.
+I studied Natural Language Processing (NLP) during the fall semester. First, I implemented bag-of-words, RNN, and BERT using PyTorch. You can see my source code in the src folder. Second, there was a team project that we should select one paper and had to do replication experiments. Our team did a replication experiment in the don't-stop-pretraining paper and produced similar results compared to the original paper. In addition, we tried YouTube data augmentation and GLUE benchmark experiments, which were improvements that we made. You can see our final presentation slides and the report below.
 
 ## Replication Approach
 
