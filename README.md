@@ -25,4 +25,4 @@ It is a team project with four KAIST students. I am thankful to the team members
 ## References
 
 Original Paper: https://arxiv.org/pdf/2004.10964 \
-Github Code: https://github.com/allenai/dont-stop-pretraining/tree/266269faca8645482eef2e710d916607ea2c71d2
+Github Code: https://github.com/allenai/dont-stop-pretraining
